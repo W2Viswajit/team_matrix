@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "team_matrix",
+			"path": "../../../team_matrix"
+		},
+		{
+			"name": "shap-e",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
