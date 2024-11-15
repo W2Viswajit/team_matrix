@@ -69,6 +69,6 @@ R Viswajit
 ##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+##Acknowledgments
 Unity Asset Store for sample assets and resources.
 OpenAI for the powerful conversational AI APIs.
