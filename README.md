@@ -43,7 +43,7 @@ Set up the build platform for Android (Meta Quest 2’s operating system).
 ##4. Configure OpenAI API
 In the project, locate the script managing OpenAI API requests (e.g., OpenAIManager.cs).
 Add your OpenAI API key:
-private string apiKey = "sk-JeLY4pInXTEQjCTeA2YUGZ-3HO6YN_jj2Fy3EBOI_iT3BlbkFJ-I1esxQd4qLVqK3dpWUwHF7Nnmeqtvwwozdv4eQdAA";  
+private string apiKey = "your_openAI_API_Key";  
 ##5. Run the Application
 Connect your Meta Quest 2 device to your system.
 Build and deploy the Unity project to the headset.
